@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @nikotsal
-- 🌱 I’m currently learning how to become a Data Scientist
+- 🌱 I’m currently learning how to become a Data Analyst/Scientist
